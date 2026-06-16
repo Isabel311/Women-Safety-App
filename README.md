@@ -82,6 +82,6 @@ This application is intended for educational and demonstration purposes only. Em
 | Communication | SMS & Phone Call Components |
 | Sensors | Accelerometer Sensor |
 | Programming Model | Event-Driven Programming |
-| Mobile Platform | Android |
+| Mobile Platform | Android / Iphone | 
 
 
