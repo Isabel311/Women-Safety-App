@@ -42,3 +42,46 @@ This application has been developed solely for **educational, academic, and demo
 🚨 Users should always depend on official emergency services, verified safety applications, and local authorities for real-life safety and emergency assistance.
 
 
+## 🚀 Installation Instructions
+
+### Option 1: Install the Android App (APK)
+
+1. Download the `Women_Safety_App.apk` file from this repository.
+2. Transfer the APK to an Android device if downloaded on a computer.
+3. Enable **Install from Unknown Sources** (if required by your Android version).
+4. Open the APK file and follow the installation prompts.
+5. Launch the application and configure emergency contacts before testing features.
+
+### Option 2: Open the Project in MIT App Inventor
+
+1. Download the `Women_Safety_App.aia` file from this repository.
+2. Visit the MIT App Inventor website.
+3. Sign in to your MIT App Inventor account.
+4. Select **Projects → Import project (.aia) from my computer**.
+5. Choose the downloaded `.aia` file.
+6. The complete project, including blocks and design components, will be imported and ready for editing.
+
+## 📋 Usage
+
+1. Add and save emergency contacts.
+2. Enable location permissions when prompted.
+3. Use the SOS button or Shake-to-SOS feature to trigger an emergency alert.
+4. The app will send the user's current location via SMS and can initiate a call to the designated emergency contact.
+
+## ⚠️ Note
+
+This application is intended for educational and demonstration purposes only. Emergency features should be tested in a controlled environment and should not be relied upon as a substitute for official emergency services.
+
+## 🛠️ Tech Stack
+
+| Category | Technology |
+|-----------|------------|
+| Development Platform | MIT App Inventor |
+| Database | TinyDB |
+| Location Services | GPS Location Sensor |
+| Communication | SMS & Phone Call Components |
+| Sensors | Accelerometer Sensor |
+| Programming Model | Event-Driven Programming |
+| Mobile Platform | Android |
+
+
